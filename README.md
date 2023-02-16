@@ -8,6 +8,7 @@ Conclusion
 1. Checkout Times for Users: https://public.tableau.com/app/profile/maxine.jean.joseph/viz/CityBike_Final_16759037995760/CityBikeStory?publish=yes
 Demonstrates the lengh of time that bikes are checked out for all riders.
 
+
 2. Checkout Times by Gender Viz: https://public.tableau.com/app/profile/maxine.jean.joseph/viz/CityBike_Final_16759037995760/CityBikeStory?publish=yes
 Demonstrates the lengh of time that bikes are checked out for each gender.
 
